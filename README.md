@@ -1,5 +1,5 @@
 # Superstore-Portfolio-Project
-
+![Superstore](Superstore_logo.png)
 ## Superstore Sales, Profit, and Shipping Analysis Report
 1. ### Introduction
 - **Project Title**: Superstore Metrics: Sales, Profit, and Shipping Overview
@@ -18,6 +18,7 @@
 - **Shipping Mode**: Standard, First Class, Second Class, and Same Day.
 
  ### Key Insights from the Power BI Superstore Metrics Visual Dashboard
+  You can interact with the report <a href="https://app.powerbi.com/groups/me/reports/5d038ed4-0c7f-4446-a6ef-ca7b49c878c3/ReportSection?experience=power-bi" target="_blank">Click here to view the report</a>
 ![sales and profit](sales_profit_on_product_using_power_BI.png)
  1. #### Sales Performance Analysis
 - **Top-Selling Sub-Categories**:
@@ -49,8 +50,10 @@
 - **Improve Performance in Low-Profit Categories**: Evaluate pricing and cost structures for Machines, Furnishings, and Paper to enhance profitability.
 - **Optimize Sales Strategies for Seasonal Peaks**: Since sales peak in July and October, plan marketing campaigns and inventory accordingly.
 - **Evaluate Shipping Impact on Profitability**: Further analysis on shipping costs could help improve profit margins.
+  
 
    ### Key Insights from the Tableau Superstore Metrics Visual Dashboard
+ 
   ![sales and profit](sales_profit_on_product_tableau_tool.png)
 
   1. #### Shipping Cost Analysis
