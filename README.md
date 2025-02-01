@@ -53,10 +53,10 @@
   
 
    ### Key Insights from the Tableau Superstore Metrics Visual Dashboard
- 
+You can interact with the report <a href="https://public.tableau.com/app/profile/collins.omoviye/viz/SuperstoreMetricsSalesProfitandShippingOverview/Dashboard1?publish=yes" target="_blank">here</a>.
   ![sales and profit](sales_profit_on_product_tableau_tool.png)
 
-  1. #### Shipping Cost Analysis
+1. #### Shipping Cost Analysis
 - Standard Class (614,628) accounts for the highest shipping cost, indicating a preference for cost-effective shipping.
 - Second Class (314,112) and First Class (308,103) have similar shipping costs, suggesting customers opt for faster shipping despite the higher expense.
 - Same Day Shipping (115,974) is the least used but has a significantly higher average shipping cost per transaction.
