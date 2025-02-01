@@ -16,3 +16,6 @@
 - **Region, State**: Geographic sales analysis.
 - **Customer Segment**: Business, Consumer, and Home Office segments.
 - **Shipping Mode**: Standard, First Class, Second Class, and Same Day.
+
+ ### Key Insights from the Superstore Metrics Visual Dashboard
+ 
